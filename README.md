@@ -1,4 +1,4 @@
-- Hi, I’m @Claythedragon
+- Hi, I’m @calcite-dragon
 - I’m interested in Gamedev, Art, E.T.C.
 - I’m currently learning C#
 - And I'm working on a solo indie game
